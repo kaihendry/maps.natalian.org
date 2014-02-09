@@ -1,0 +1,1111 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2010-11-02",
+        "Place": "Lyon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          4.842223,
+          45.759723
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2010-06-07",
+        "Place": "Perhentian Kecil"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.733333,
+          5.916667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2010-06-02",
+        "Place": "George Town"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.316667,
+          5.416667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2010-06-01",
+        "Place": "Cameron Highlands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.383333,
+          4.466667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2010-05-28",
+        "Place": "Kuala Lumpur"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          101.688,
+          3.1357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-10-20",
+        "Place": "Mandelieu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          6.938056,
+          43.546389
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-08-23",
+        "Place": "Bucharest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          26.09597,
+          44.44116
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-08-21",
+        "Place": "Bran"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.35129,
+          45.54988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-08-20",
+        "Place": "Sibiu"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.14816,
+          45.79749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-08-19",
+        "Place": "Timisoara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          21.20729,
+          45.74963
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-08-17",
+        "Place": "Belgrade"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          20.4564,
+          44.80957
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-08-16",
+        "Place": "Podgorica"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          19.25574,
+          42.43758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-08-15",
+        "Place": "Kotor"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.76939,
+          42.43523
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-08-13",
+        "Place": "Dubrovnik"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          18.11187,
+          42.63964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-07-12",
+        "Place": "Paris(Bastille day)"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.333056,
+          48.866667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-06-14",
+        "Place": "Pescara"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          14.2,
+          42.466667
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-05-09",
+        "Place": "Cobh, Cork"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -8.3,
+          51.85
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-05-03",
+        "Place": "Dublin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -6.266111,
+          53.342778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-03-21",
+        "Place": "Tel Aviv"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          34.8,
+          32.083333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-03-20",
+        "Place": "Akko"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.081667,
+          32.927778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-03-20",
+        "Place": "Jerusalem"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          35.216667,
+          31.783333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-02-21",
+        "Place": "Washington DC"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -77.03,
+          38.89
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2008-02-10",
+        "Place": "Barcelona"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          2.183333,
+          41.383333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2007-12-10",
+        "Place": "Austin"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.763889,
+          30.267222
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2007-09-22",
+        "Place": "San Francisco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.420654,
+          37.824972
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-12-16",
+        "Place": "Bariloche"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.290833,
+          -41.143611
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-11-9",
+        "Place": "Rio de Janeiro"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -43.164,
+          -22.948
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-11-26",
+        "Place": "Montevideo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -56.185,
+          -34.905
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-11-24",
+        "Place": "Porto Alegre"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -51.228,
+          -30.28
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-11-23",
+        "Place": "Blumenau"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -49.71,
+          -26.921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-11-21",
+        "Place": "Barra da Lagoa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.422,
+          -27.574
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-11-02",
+        "Place": "S�o Paulo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -46.645,
+          -23.561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-10-26",
+        "Place": "Salta"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -65.408,
+          -24.793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-10-25",
+        "Place": "Tanti"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.603,
+          -31.347
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-10-24",
+        "Place": "Cordoba"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -64.189,
+          -31.425
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-10-20",
+        "Place": "Santiago, Chile"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -70.637,
+          -33.43
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-10-14",
+        "Place": "Mendoza"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -68.854,
+          -32.892
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-09-17",
+        "Place": "Colonia, Uruguay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -57.854,
+          -34.446
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-09-04",
+        "Place": "Buenos Aires"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -58.376,
+          -34.621
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-04-23",
+        "Place": "Beijing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          116.4,
+          39.93
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-03-08",
+        "Place": "Seoul"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          127.14,
+          37.487
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-01-29",
+        "Place": "Bucheon"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          126.775,
+          37.501
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2006-01-12",
+        "Place": "Melbourne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9665,
+          -37.816233333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-12-24",
+        "Place": "New Caledonia"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          165.630054,
+          -21.264421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-09-14",
+        "Place": "Melbourne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9665,
+          -37.816233333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-09-10",
+        "Place": "Perth"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.855,
+          -31.943
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-09-05",
+        "Place": "Albany"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          117.657,
+          -34.993
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-08-29",
+        "Place": "Adelaide"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.59,
+          -34.926
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-08-26",
+        "Place": "Alice Springs"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          133.88,
+          -23.702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-08-25",
+        "Place": "Uluru"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          131.21,
+          -25.343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-08-20",
+        "Place": "Sydney"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.219,
+          -33.88
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-08-19",
+        "Place": "Canberra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          149.143,
+          -35.317
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-07-23",
+        "Place": "Melbourne"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.9665,
+          -37.816233333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-04-10",
+        "Place": "Tokyo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.766,
+          35.683
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-03-17",
+        "Place": "Laos"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          102.6,
+          17.966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-03-15",
+        "Place": "Bali"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          115.233,
+          -8.416
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-01-11",
+        "Place": "Bangkok"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          100.3,
+          13.44
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2005-01-06",
+        "Place": "Kolkata"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          88.352566,
+          22.54855
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-12-22",
+        "Place": "Andaman Islands"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          93.006134,
+          12.026561
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-12-18",
+        "Place": "Chennai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.279245,
+          13.055316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-12-16",
+        "Place": "Bangalore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.606649,
+          12.958474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-12-14",
+        "Place": "Pondicherry"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          79.831982,
+          11.932776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-12-11",
+        "Place": "Chennai"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          80.279245,
+          13.055316
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-12-09",
+        "Place": "Bangalore"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.606649,
+          12.958474
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-12-01",
+        "Place": "Goa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          74.268265,
+          14.705822
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-11-27",
+        "Place": "Bombay"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          72.834034,
+          18.921227
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-11-25",
+        "Place": "Agra"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          78.045158,
+          27.174637
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-11-23",
+        "Place": "Delhi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          77.213287,
+          28.665738
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-11-10",
+        "Place": "Islamabad"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          73.166,
+          33.666
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-10-31",
+        "Place": "Almaty"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          76.537971,
+          43.188156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-10-26",
+        "Place": "Novosibirsk"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          82.922401,
+          55.02999
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-10-24",
+        "Place": "Trans-Siberian"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          60.732422,
+          59.489726
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-10-20",
+        "Place": "Moscow"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          37.624784,
+          55.751946
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2004-10-04",
+        "Place": "Saint Petersburg"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          30.336471,
+          59.92484
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2003-07-18",
+        "Place": "Oslo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          10.75,
+          59.933
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "2000-11-14",
+        "Place": "Tallinn"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          24.75,
+          59.433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "1998-09-01",
+        "Place": "Bath"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -2.35,
+          51.366
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "1996-12-23",
+        "Place": "Victoria Falls, Zimbabwe"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          25.916,
+          -17.916
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Date": "1978-06-03",
+        "Place": "Durban"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          31.5,
+          -29.883
+        ]
+      }
+    }
+  ]
+}
